@@ -1,5 +1,3 @@
-# Cypress_API_Test
-
 # Cypress API Tests
 
 Welcome to the Cypress API Tests for [Your Project Name]. This repository contains API tests written using Cypress.
