@@ -19,6 +19,8 @@ Before you begin, ensure you have the following installed on your machine:
 2. Navigate to the project directory:
 3. Install project dependencies:
     npm install
-4. Run the test
+4. Run the test:
     npx cypress open
+
+
  Worning: If the in some cases you will recive 401 error in most cases the token was expired. You can generate new one by going this url(https://gorest.co.in/my-account/access-tokens) passing registration, genrating new one and using it. 
